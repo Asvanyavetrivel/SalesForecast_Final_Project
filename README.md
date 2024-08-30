@@ -1,4 +1,4 @@
-Retail Sales Forecast
+# Retail Sales Forecast
 
 ## Overview
 This project focuses on forecasting retail sales by utilizing datasets that include features, sales, and store information. 
